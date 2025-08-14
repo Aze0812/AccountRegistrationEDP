@@ -1,0 +1,35 @@
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\bin\Debug\net8.0-windows\Account Registration.exe
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\bin\Debug\net8.0-windows\Account Registration.deps.json
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\bin\Debug\net8.0-windows\Account Registration.runtimeconfig.json
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\bin\Debug\net8.0-windows\Account Registration.dll
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\bin\Debug\net8.0-windows\Account Registration.pdb
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account_Registration.Form1.resources
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.csproj.GenerateResource.cache
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.AssemblyInfoInputs.cache
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.AssemblyInfo.cs
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.dll
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\refint\Account Registration.dll
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.pdb
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.genruntimeconfig.cache
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\ref\Account Registration.dll
+C:\Users\Zeji\source\repos\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account_Registration.FrmConfirm.resources
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\bin\Debug\net8.0-windows\Account Registration.exe
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\bin\Debug\net8.0-windows\Account Registration.deps.json
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\bin\Debug\net8.0-windows\Account Registration.runtimeconfig.json
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\bin\Debug\net8.0-windows\Account Registration.dll
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\bin\Debug\net8.0-windows\Account Registration.pdb
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account_Registration.Form1.resources
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account_Registration.FrmConfirm.resources
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.csproj.GenerateResource.cache
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.AssemblyInfoInputs.cache
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.AssemblyInfo.cs
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.sourcelink.json
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.dll
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\refint\Account Registration.dll
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.pdb
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\Account Registration.genruntimeconfig.cache
+C:\Users\Zeji\Source\Repos\AccountRegistrationEDP\Account Registration\Account Registration\obj\Debug\net8.0-windows\ref\Account Registration.dll
